@@ -1,0 +1,73 @@
+.categories {
+	height: 190px;
+}
+
+
+.shoes img, .shirt img, .trouser img {
+	margin-top: 25px;
+	float: left;
+}
+
+.shirt img {
+	margin-left: 30px;
+}
+
+.trouser img {
+	margin-left: 50px;
+}
+
+
+.sector {
+	float: left;
+	width: 333px;
+	height: 190px;
+}
+
+.shoes .sector, .trouser .sector {
+	border-style: solid;
+	border-width: 0 1px;
+	border-color: #eee;
+
+}
+
+
+
+
+.three {
+	padding-top: 52px;
+	float: right;
+	height: 100px;
+	width: 100px;
+	padding-right: 15px;
+
+}
+
+.shoes h2, .shirt h2, .trouser h2{
+	font-size: 20px;
+	font-family: tahoma;
+	line-height: 24px;
+	font-weight: 500;
+	color: #afa0af;
+	padding-bottom: 23px;
+	text-transform: uppercase;
+}
+
+.shoes a, .shirt a, .trouser a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: tahoma;
+	font-weight: 600;
+}
+
+.shop {
+	color: #fff;
+	font-size: 15px;
+	margin-left: 1px;
+	padding:6px 9px;
+	background-color: #3cc395;
+}
+
+
+
+
+

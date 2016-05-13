@@ -1,0 +1,51 @@
+.products {
+	height: 750px;
+}
+
+.content {
+	height: 262px;
+	width: 255px;
+	border:solid 2px #eee;
+	margin-top: 50px;
+	margin-left: 52px;
+	padding-top: 23px;
+	text-align: center;
+	position: relative;
+	float: left;
+}
+
+.branded {
+	margin-top: 20px;
+	font-size: 19px;
+	font-family: tahoma;
+	line-height: 30px;
+	font-weight: 500;
+	color: #9090a0;
+	text-transform: uppercase;
+	letter-spacing: -0.1px;
+}
+
+.branded a {
+	text-decoration: none;
+}
+
+.branded span {
+	font-weight: 600;
+	word-spacing: 2px;
+	color: #fff;
+	padding: 5px 8px;
+	background-color: #3cc395;
+	font-size: 15px;
+	margin-left: 10px;
+	text-decoration: none;
+	letter-spacing: -1px;
+}
+
+.products hr {
+	height: 5px;
+	background-color: #3cc395;
+	width: 255px;
+	position: absolute;
+	bottom: 0;
+	margin:0;
+}

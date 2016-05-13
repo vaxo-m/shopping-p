@@ -1,0 +1,57 @@
+.slide {
+	background-color: #38bfb5;
+	margin: 0 auto;
+	height: 450px;
+	color: #fff;
+	font-weight: lighter;
+	font-family: tahoma;
+}
+
+.slide img {
+	float: left;
+	margin-top: 70px;
+	margin-left: 79px;
+}
+
+
+.slide-text {
+	margin-top: 82px;
+	width: 405px;
+	margin-left: 100px;	
+	display: inline-block;
+	
+}
+
+
+.slide-text h1 {
+	font-size: 61px;
+}
+
+.slide-text a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.slide-text p{
+	margin-top: 10px;
+	line-height: 25px;
+	letter-spacing: 0.9px;
+	opacity: 0.88;
+	
+}
+
+.shop-now {
+	width: 135px;
+	margin-top: 29px;
+	text-transform: uppercase;
+	padding: 10px 9px;
+	border-width: 3.9px;
+	border-style: solid;
+	text-align: center;
+	border-radius: 8px;
+	font-size: 17pt;
+	
+}
+
+
+

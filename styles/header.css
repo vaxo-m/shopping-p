@@ -1,0 +1,74 @@
+body a:hover {
+	color: #000;
+}
+
+header {
+	margin: 0 auto;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1024px;
+}
+
+header .container {
+	height: 82px;
+	margin-top: 10px;
+}
+
+.logo {
+	float: left;
+	margin-left: 23px;
+	margin-top: 20px;
+}
+
+input {
+	font-size: 19px;
+	color: #156B6E;
+	margin-top: 23px;
+	width: 437px;
+	margin-left: 160px;
+	height: 29px;
+	background-image: url(../images/search.png);
+	background-position: calc(100% - 10px) center;
+	/*background-position: from right 20px;*/
+	background-repeat: no-repeat;
+	border-width: 1.1px;
+	border-color: #afafaf;
+
+}
+
+.balance {
+	float: right;
+	height: 40px;
+	width: 130px;
+	vertical-align: middle;
+	margin-top: 21px;
+}
+
+.balance img {
+	float: left;
+
+}
+
+.balance h2 {
+	margin-top: 4px;
+	color: #a1a1a1;
+	font-family: sans-serif;
+	font-family: bold;
+	font-weight: 700;
+	font-size: 27pt;
+	margin-left: 47px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

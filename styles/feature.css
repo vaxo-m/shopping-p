@@ -1,0 +1,15 @@
+.feature {
+	height: 67px;
+	background-color: #3dcfbf;
+	margin: 0 auto;
+}
+
+.feature h2 {
+	padding-top: 22px;
+	font-size: 22px;
+	text-transform: uppercase;
+	color: #fff;
+	font-family: tahoma;
+	margin-left: 60px;
+}
+
